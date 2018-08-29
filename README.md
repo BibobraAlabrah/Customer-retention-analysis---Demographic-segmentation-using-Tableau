@@ -16,3 +16,14 @@ This kind of analysis is valuable as well because it doesn’t just have to be l
 5. whether a person should be approved for credit or not
 
 This type of analysis can always be implemented as a means to boost the reveneue as a result of better clinet retention either in a bank or any different financial institutions.
+
+
+## Dataset description: 
+
+The dataset contains information on the customers of a bank which after streamlining, leaves us with the key target attributes for our analysis. The target variables are as listed below:
+
+1. Region ( 4 regions )
+2. Balance 
+3. Age 
+4. Gender
+5. Job classification ( 3 types: White collar, Blue collar and Other )

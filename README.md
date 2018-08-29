@@ -2,7 +2,7 @@
 
 
 ## Business problem description:
-The goal is to create a demograhic segmentation model to assess how the target demographic in different regions are represented in terms of age distrbution, job classification, gender, balance etc. to improve clinet retention.
+The goal is to create a demograhic segmentation analysis report to assess how the target demographic in different regions are represented in terms of age distrbution, job classification, gender, balance etc. to improve clinet retention.
 
 The analysis carried out is represented in the form of an interactive visual report and a Storyline in Tableau.
 
